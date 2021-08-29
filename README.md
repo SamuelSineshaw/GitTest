@@ -1,0 +1,2 @@
+# GitTest
+introdaction to git
